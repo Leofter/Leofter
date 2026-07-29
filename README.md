@@ -1,9 +1,5 @@
 
-
-
-<h1>
- 👋 Hello there, I am Leonardo Magalhães
-</h1>
+# 👋 Olá!! eu sou Leonardo Magalhães
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=47AC3C&random=false&width=435&lines=AI+Engineer)](https://git.io/typing-svg)
 
