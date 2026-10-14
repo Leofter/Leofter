@@ -7,9 +7,13 @@
 ### R&D developer of AI models and intelligent solutions
 
 #### ⚡ Computer Engineer ⚡ 
-#### 📍Salvador, BA, Brazil 🇧🇷 
+#### 📍Salvador, BA, Brazil 🇧🇷
+
 <br>
+</br>
 <br>
+</br>
+
 ### You can contact me through the following means:
 <ul>
 <li> Email I: lmagal2003@gmail.com </li>
