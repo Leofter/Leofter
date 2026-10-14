@@ -11,8 +11,6 @@
 
 <br>
 </br>
-<br>
-</br>
 
 ### You can contact me through the following means:
 <ul>
