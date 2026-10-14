@@ -10,7 +10,7 @@
 #### 📍Salvador, BA, Brazil 🇧🇷
 
 <br>
-</br>
+
  ### Main stack
 
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,sklearn,anaconda,docker,git,linux,aws)](https://skillicons.dev)
