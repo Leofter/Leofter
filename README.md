@@ -9,7 +9,10 @@
 #### ⚡ Computer Engineer ⚡ 
 #### 📍Salvador, BA, Brazil 🇧🇷 
 
-
+<ul>
+</ul>
+<ul>
+</ul>
 
 #### You can contact me through the following means:
 <ul>
