@@ -8,13 +8,9 @@
 
 #### ⚡ Computer Engineer ⚡ 
 #### 📍Salvador, BA, Brazil 🇧🇷 
-
-<ul>
-</ul>
-<ul>
-</ul>
-
-#### You can contact me through the following means:
+<br>
+<br>
+### You can contact me through the following means:
 <ul>
 <li> Email I: lmagal2003@gmail.com </li>
 <li> Email II: leonardo.magalhaes@fbter.org.br </li>
