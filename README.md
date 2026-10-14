@@ -3,15 +3,14 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6a329f&random=false&width=435&lines=AI+Engineer)](https://git.io/typing-svg)
 
+
+### R&D developer of AI models and intelligent solutions, with a focus on Machine Learning, Deep Learning, and Computer Vision
 <ul>
-#### R&D developer of AI models and intelligent solutions, with a focus on Machine Learning, Deep Learning, and Computer Vision
-</ul>
-<li> ##### ⚡ Computer Engineer ⚡ <li> 
-<li> ##### 📍Salvador, BA, Brazil 🇧🇷 <li> 
-</ul>
+#### ⚡ Computer Engineer ⚡ 
+#### 📍Salvador, BA, Brazil 🇧🇷 
 </ul>
 
-#### You can contact me through the following means:
+### You can contact me through the following means:
 <ul>
 <li> Email I: lmagal2003@gmail.com </li>
 <li> Email II: leonardo.magalhaes@fbter.org.br </li>
