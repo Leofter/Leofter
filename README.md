@@ -6,8 +6,7 @@
 
 ### R&D developer of AI models and intelligent solutions
 
-#### ⚡ Computer Engineer ⚡ 
-#### 📍Salvador, BA, Brazil 🇧🇷
+#### ⚡ Computer Engineer ⚡ on 📍Salvador, BA, Brazil 🇧🇷
 
 <br>
 </br>
