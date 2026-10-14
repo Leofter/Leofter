@@ -1,7 +1,7 @@
 
 # Hi!! I am Leonardo Magalhães
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6a329f&random=false&width=435&lines=AI+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=19FF00&random=false&width=435&lines=AI+Engineer)](https://git.io/typing-svg)
 
 
 ### R&D developer of AI models and intelligent solutions
@@ -10,7 +10,8 @@
 #### 📍Salvador, BA, Brazil 🇧🇷 
 
 
-### You can contact me through the following means:
+
+#### You can contact me through the following means:
 <ul>
 <li> Email I: lmagal2003@gmail.com </li>
 <li> Email II: leonardo.magalhaes@fbter.org.br </li>
