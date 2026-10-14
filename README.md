@@ -22,5 +22,11 @@
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Leofter&repo=Leofter%2FEdge-Computing-and-AWS-IOT&description_lines_count=2&theme=midnight-purple)](https://github.com/Leofter/Edge-Computing-and-AWS-IOT)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Leofter&repo=Leofter%2Freusable_pipeline_for_image_detection_ROI_and_OCR&description_lines_count=2&theme=midnight-purple)](https://github.com/Leofter/reusable_pipeline_for_image_detection_ROI_and_OCR)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Leofter/Leofter/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Leofter/Leofter/output/snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Leofter/Leofter/output/snake.svg">
+</picture>
  
 
