@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=19FF00&random=false&width=435&lines=AI+Engineer)](https://git.io/typing-svg)
 
 
-## R&D developer of AI models and intelligent solutions
+### R&D developer of AI models and intelligent solutions
 
 ### ⚡ Computer Engineer ⚡
 ### 📍Salvador, BA, Brazil 🇧🇷
