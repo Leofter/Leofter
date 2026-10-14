@@ -5,14 +5,15 @@
 
 <ul>
 
-## R&D developer of AI models and intelligent solutions, with a focus on Machine Learning, Deep Learning, and Computer Vision
+#### R&D developer of AI models and intelligent solutions, with a focus on Machine Learning, Deep Learning, and Computer Vision
 
-### ⚡ Computer Engineer ⚡
+##### ⚡ Computer Engineer ⚡
 
-#### 📍Salvador, BA, Brazil 🇧🇷
+##### 📍Salvador, BA, Brazil 🇧🇷
+
 </ul>
 
-## You can contact me through the following means:
+#### You can contact me through the following means:
 <ul>
 <li> Email I: lmagal2003@gmail.com </li>
 <li> Email II: leonardo.magalhaes@fbter.org.br </li>
