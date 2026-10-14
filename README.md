@@ -9,15 +9,6 @@
 #### ⚡ Computer Engineer ⚡
 #### 📍Salvador, BA, Brazil 🇧🇷
 
-<br>
-</br>
-
-### You can contact me through the following means:
-<ul>
-<li> Email I: lmagal2003@gmail.com </li>
-<li> Email II: leonardo.magalhaes@fbter.org.br </li>
-</ul>
-
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Leofter&repo=Leofter%2FEdge-Computing-and-AWS-IOT&description_lines_count=2&theme=midnight-purple)](https://github.com/Leofter/Edge-Computing-and-AWS-IOT)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Leofter&repo=Leofter%2Freusable_pipeline_for_image_detection_ROI_and_OCR&description_lines_count=2&theme=midnight-purple)](https://github.com/Leofter/reusable_pipeline_for_image_detection_ROI_and_OCR)
  
