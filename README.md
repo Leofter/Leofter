@@ -4,11 +4,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6a329f&random=false&width=435&lines=AI+Engineer)](https://git.io/typing-svg)
 
 
-### R&D developer of AI models and intelligent solutions, with a focus on Machine Learning, Deep Learning, and Computer Vision
-<ul>
+### R&D developer of AI models and intelligent solutions, with a focus on Data Science, AWS and Computer Vision
+
 #### ⚡ Computer Engineer ⚡ 
 #### 📍Salvador, BA, Brazil 🇧🇷 
-</ul>
+
 
 ### You can contact me through the following means:
 <ul>
