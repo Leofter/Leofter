@@ -16,7 +16,6 @@
   <a href="https://www.instagram.com/leo.s.magal/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Leofter&repo=Leofter%2FEdge-Computing-and-AWS-IOT&description_lines_count=2&theme=midnight-purple)](https://github.com/Leofter/Edge-Computing-and-AWS-IOT)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Leofter&repo=Leofter%2Freusable_pipeline_for_image_detection_ROI_and_OCR&description_lines_count=2&theme=midnight-purple)](https://github.com/Leofter/reusable_pipeline_for_image_detection_ROI_and_OCR)
 
 <picture>
